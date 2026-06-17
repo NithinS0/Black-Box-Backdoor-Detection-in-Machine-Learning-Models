@@ -206,9 +206,10 @@ The proposed behavioral fingerprinting framework successfully distinguishes clea
 ---
 
 
-## Author
+## Authors
 
 **Nithin S**
+
 **Kavin Rajendran**
 
 ---
