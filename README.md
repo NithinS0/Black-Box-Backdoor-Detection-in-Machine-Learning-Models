@@ -205,40 +205,11 @@ The proposed behavioral fingerprinting framework successfully distinguishes clea
 
 ---
 
-## Repository Structure
-
-```text
-adaptive-behavioral-fingerprinting/
-│
-├── data/
-│   ├── prompts.json
-│   └── labels.csv
-│
-├── notebooks/
-│   └── experiments.ipynb
-│
-├── src/
-│   ├── probing.py
-│   ├── fingerprint.py
-│   ├── classifier.py
-│   └── evaluation.py
-│
-├── results/
-│   ├── metrics.csv
-│   └── roc_curve.png
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
 
 ## Author
 
 **Nithin S**
-
-Student Research Project – AI Security & Behavioral Analysis
+**Kavin Rajendran**
 
 ---
 
